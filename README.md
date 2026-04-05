@@ -66,6 +66,7 @@ I started coding out of curiosity in 2021 and haven't stopped building since. Fr
 | **[StudyAI](https://study-ai-liart.vercel.app/)** |  AI study companion app where users upload their notes and the AI generates concise summaries and custom quizzes. | HTML, CSS, JS, Flutter |
 | **[Solar Rooftop Leasing Platform](https://skyshare-dynamic-website.vercel.app/)** | Web platform for solar panel rooftop leasing solutions | HTML, CSS, JS |
 | **[Ai Clinic Managment System](https://medflow-website-delta.vercel.app/)** | Complete Clinic Managment System integrated with Gemini AI | React, Express, JWT Authetication, MongoDB, claudinary |
+| **[OOP Learning website with C++](https://learn-oop.vercel.app/)** | A gamified single-file educational website for teaching C++ OOP concepts to classmates. |HTML, CSS, JS |
 ### 🤖 AI & Data Science
 
 | Project | Description | Highlights |
