@@ -113,7 +113,7 @@ I started coding out of curiosity in 2021 and haven't stopped building since. Fr
 I'm always open to collaborating on interesting projects, discussing AI & data science, or just talking tech.
 
 📧 **[Haroonfarhan110@gmail.com](mailto:Haroonfarhan110@gmail.com)**
-🌐 **[portfolio-pi-ten-4i5uxlv2da.vercel.app](https://farhanharoon.dev)**
+🌐 **[farhanharoon.dev](https://farhanharoon.dev)**
 
 ---
 
