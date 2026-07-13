@@ -6,7 +6,7 @@
 
 *Bridging data and strategy — building things that actually work.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pi-ten-4i5uxlv2da.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://farhanharoon.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Haroonfarhan110@gmail.com)
 [![Location](https://img.shields.io/badge/Karachi%2C%20Pakistan-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
