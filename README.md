@@ -61,7 +61,7 @@ I started coding out of curiosity in 2021 and haven't stopped building since. Fr
 
 | Project | Description | Tech |
 |---|---|---|
-| **[Portfolio Website](https://portfolio-pi-ten-4i5uxlv2da.vercel.app/)** | Personal portfolio showcasing my projects, journey, and services | HTML, CSS, JS |
+| **[Portfolio Website](https://farhanharoon.dev)** | Personal portfolio showcasing my projects, journey, and services | HTML, CSS, JS |
 | **[Tahwar.pk](https://tahwar-website.vercel.app/)** | Wedding service aggregator for Pakistan — market research, business model, user flow & GTM strategy | HTML, CSS, JS |
 | **[StudyAI](https://study-ai-liart.vercel.app/)** |  AI study companion app where users upload their notes and the AI generates concise summaries and custom quizzes. | HTML, CSS, JS, Flutter |
 | **[Solar Rooftop Leasing Platform](https://skyshare-dynamic-website.vercel.app/)** | Web platform for solar panel rooftop leasing solutions | HTML, CSS, JS |
@@ -113,7 +113,7 @@ I started coding out of curiosity in 2021 and haven't stopped building since. Fr
 I'm always open to collaborating on interesting projects, discussing AI & data science, or just talking tech.
 
 📧 **[Haroonfarhan110@gmail.com](mailto:Haroonfarhan110@gmail.com)**
-🌐 **[portfolio-pi-ten-4i5uxlv2da.vercel.app](https://portfolio-pi-ten-4i5uxlv2da.vercel.app/)**
+🌐 **[portfolio-pi-ten-4i5uxlv2da.vercel.app](https://farhanharoon.dev)**
 
 ---
 
