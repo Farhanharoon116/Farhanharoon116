@@ -83,11 +83,11 @@ I started coding out of curiosity in 2021 and haven't stopped building since. Fr
 ---
 
 ## ⭐ Flagship Product
-
-### 🧾 Trakr : Business Management OS for Pakistani SMEs
-
-A cloud-based business management operating system built for small and medium businesses in Pakistan, currently an early-stage startup with a pitch deck, pricing tiers and a public marketing presence on the way.
-
+ 
+### 🧾 [Trakr](https://app.gettrakr.tech): Business Management OS for Pakistani SMEs
+ 
+A cloud-based business management operating system built for small and medium businesses in Pakistan. **Live in production at [app.gettrakr.tech](https://app.gettrakr.tech)**, as an early-stage startup.
+ 
 | | |
 |---|---|
 | **Architecture** | pnpm monorepo: React/Vite, Node.js/Express, Flutter, Supabase |
@@ -95,14 +95,15 @@ A cloud-based business management operating system built for small and medium bu
 | **Localization** | Urdu and RTL support, FBR compliance, JazzCash / Easypaisa integration |
 | **Backend** | Atomic Postgres RPC functions, database-native RBAC, trial / plan gating |
 | **Operations** | Multi-unit packaging, storefront and KDS integration, account lifecycle management |
-
+ 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Status](https://img.shields.io/badge/Status-In%20Development-4F46E5?style=flat-square)
-
+[![Live](https://img.shields.io/badge/Status-Live-22C55E?style=flat-square)](https://app.gettrakr.tech)
+ 
 ---
+
 
 ## 🚀 Projects
 
