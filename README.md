@@ -84,7 +84,7 @@ I started coding out of curiosity in 2021 and haven't stopped building since. Fr
 
 ## ⭐ Flagship Product
 
-### 🧾 Trakr (BizOS): Business Management OS for Pakistani SMEs
+### 🧾 Trakr : Business Management OS for Pakistani SMEs
 
 A cloud-based business management operating system built for small and medium businesses in Pakistan, currently an early-stage startup with a pitch deck, pricing tiers and a public marketing presence on the way.
 
